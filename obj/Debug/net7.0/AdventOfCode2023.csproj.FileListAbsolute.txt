@@ -14,3 +14,6 @@ D:\Workspace\C#\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.genruntimecon
 D:\Workspace\C#\AdventOfCode2023\obj\Debug\net7.0\ref\AdventOfCode2023.dll
 D:\Workspace\C#\AdventOfCode2023\bin\Debug\net7.0\Data\Day2.txt
 D:\Workspace\C#\AdventOfCode2023\bin\Debug\net7.0\Data\Day2Test.txt
+D:\Workspace\C#\AdventOfCode2023\bin\Debug\net7.0\Data\Day3Test.txt
+D:\Workspace\C#\AdventOfCode2023\bin\Debug\net7.0\Data\Day4.txt
+D:\Workspace\C#\AdventOfCode2023\bin\Debug\net7.0\Data\Day4Test.txt
